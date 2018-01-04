@@ -5,7 +5,7 @@
 ## Manual docker httpsqs
 ### Pull the docker 
 ```
-docker pull bjzgc/docker-httpsqs
+docker pull zgcbj/docker-httpsqs
 ```
 ### Examples
 ```
